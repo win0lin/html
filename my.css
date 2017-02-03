@@ -18,7 +18,7 @@ img {
   body { font-size: 60px; }
 }	
 
-@media only screen and (max-device-width: 720px) {
+@media only screen and (max-device-width: 800px) {
   body { font-size: 50px; }
 }	
 
