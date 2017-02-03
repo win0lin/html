@@ -15,7 +15,11 @@ img {
 
 	
 @media only screen and (max-device-width: 480px) {
-  body { font-size: 40px; }
+  body { font-size: 60px; }
+}	
+
+@media only screen and (max-device-width: 720px) {
+  body { font-size: 50px; }
 }	
 
 /*
