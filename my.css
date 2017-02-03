@@ -18,8 +18,8 @@ img {
   body { font-size: 60px; }
 }	
 
-@media only screen and (max-device-width: 900px) {
-  body { font-size: 50px; }
+@media only screen and (max-device-width: 700px) {
+  body { font-size: 40px; }
 }	
 
 /*
