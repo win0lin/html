@@ -7,9 +7,9 @@ body { 	font: 300 21px Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	
 img {
 	height: auto; 
-    width: auto; 
-   max-width:100%;
-   max-height:100%;
+	width: auto; 
+	max-width:100%;
+	max-height:100%;
 }
 
 
@@ -19,16 +19,16 @@ img {
 }	
 
 @media only screen and (max-device-width: 600px00px) {
-  body { font-size: 40px; }
+  body { font-size: 30px; }
 }	
 
-/*
+
 @media only screen and (max-width: 500px) {
   body { font-size: 16px; }
   h1 {font-size: 24px;}
   h2 {font-size: 18px;}  
 }	
-*/
+
 
 
 
