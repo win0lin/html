@@ -14,11 +14,11 @@ img {
 
 	
 @media  (max-width: 480px) {
-  body { font-size: 48px; }
+  body { font-size: 18px; }
 }	
 
 @media (max-width: 600px) {
-  body { font-size: 30px; }
+  body { font-size: 18px; }
 }	
 
 @media (max-width: 1200px) {
