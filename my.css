@@ -18,9 +18,12 @@ h2 {font-size: 1.5em;}
 	
 
 @media (max-width: 1024px) {
-  body { font-size: 1.2em; }
+  body { font-size: 1.3em; }
 }	
 
+@media (max-width: 480px) {
+  body { font-size: 1.2em; }
+}	
 
 
 
