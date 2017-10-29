@@ -17,15 +17,15 @@ h1 {font-size: 2em;}
 h2 {font-size: 1.5em;}  
 
 	
-@media  (max-width: 480px) {
+@media  (max-device-width: 480px) {
   body { font-size: 1.2em; }
 }	
 
-@media (max-width: 600px) {
+@media (max-device-width: 600px) {
   body { font-size: 1.1em; }
 }	
 
-@media (max-width: 800px) {
+@media (max-device-width: 800px) {
   body { font-size: 1.5em; }
 }	
 
