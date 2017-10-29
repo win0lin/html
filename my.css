@@ -17,10 +17,10 @@ h1 {font-size: 2em;}
 h2 {font-size: 1.5em;}  
 
 	
-/*@media  (max-width: 480px) {
-  body { font-size: 18px; }
+@media  (max-width: 480px) {
+  body { font-size: 1.5em; }
 }	
-
+/*
 @media (max-width: 600px) {
   body { font-size: 18px; }
 }	
